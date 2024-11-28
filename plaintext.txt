@@ -1,0 +1,7 @@
+plaintext
+requirements.txt:
+pandas>=1.3.0
+scikit-learn>=0.24.2
+numpy>=1.21.0
+joblib>=1.0.1
+python-dateutil>=2.8.2
